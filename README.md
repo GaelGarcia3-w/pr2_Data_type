@@ -7,4 +7,5 @@ print(type(x))#Imprime el tipo de dato
 print(type(y))#Imprime el tipo de dato
 print(type(z))#Imprime el tipo de dato
 
-![image](https://github.com/user-attachments/assets/28006345-e178-4ccb-a8f4-f1fb58168326)
+![image](https://github.com/user-attachments/assets/174be6c8-bbdd-4e6e-ad14-67feaf16982b)
+
